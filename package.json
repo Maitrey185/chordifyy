@@ -1,0 +1,22 @@
+{
+  "name": "chordifyy",
+  "version": "1.0.3",
+  "description": "Get info about chords",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maitrey185/chordifyy.git"
+  },
+  "keywords": [
+    "chord"
+  ],
+  "author": "Maitrey Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maitrey185/chordifyy/issues"
+  },
+  "homepage": "https://github.com/Maitrey185/chordifyy#readme"
+}
